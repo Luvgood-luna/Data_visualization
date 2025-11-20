@@ -1,12 +1,15 @@
 # DataBreach Dashbaord
 
+
 ## Data Breach Visualization Dashboard
 
 <img width="1566" height="840" alt="Screenshot 2025-11-20 084708" src="https://github.com/user-attachments/assets/1873c63c-5330-495d-98ab-97494e2824f7" />
+<img width="1615" height="966" alt="Screenshot 2025-11-20 084725" src="https://github.com/user-attachments/assets/5dc68051-479d-4957-afb0-4222378735db" />
 
 
 A simple and interactive Dash + Plotly web dashboard that visualizes data breach statistics using bar charts, pie charts, and line charts.
 The UI is enhanced with a custom CSS theme included inside the assets/ folder.
+
 
 ## 🚀 Features
 
@@ -29,6 +32,7 @@ Responsive container grid
 
 
 ## 📁 Project Structure
+
 Data-Breach-Dashboard/
 │
 ├── app.py                 # Main Dash application
@@ -42,6 +46,7 @@ You don’t have to import the CSS manually — Dash handles it for you.
 
 
 ## 🐍 Installation & Setup
+
 1️. Install Dependencies
 pip install dash pandas plotly
 
