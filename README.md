@@ -4,8 +4,6 @@
 ## Data Breach Visualization Dashboard
 
 <img width="1566" height="840" alt="Screenshot 2025-11-20 084708" src="https://github.com/user-attachments/assets/1873c63c-5330-495d-98ab-97494e2824f7" />
-<img width="1456" height="730" alt="Screenshot(1) 2025-11-20 084725" src="https://github.com/user-attachments/assets/3332a9f0-05e6-45a0-90f5-5b50507a154f" />
-
 
 A simple and interactive Dash + Plotly web dashboard that visualizes data breach statistics using bar charts, pie charts, and line charts.
 The UI is enhanced with a custom CSS theme included inside the assets/ folder.
