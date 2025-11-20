@@ -29,20 +29,6 @@ Custom graph container layout
 Responsive container grid
 
 
-## 📁 Project Structure
-
-Data-Breach-Dashboard/
-│
-├── app.py                 # Main Dash application
-├── Top20.csv              # Data source for visualizations
-│
-└── assets/
-    └── style.css          # Custom CSS automatically loaded by Dash
-
-Dash automatically loads all .css or .js files placed inside the assets folder.
-You don’t have to import the CSS manually — Dash handles it for you.
-
-
 ## 🐍 Installation & Setup
 
 1️. Install Dependencies
